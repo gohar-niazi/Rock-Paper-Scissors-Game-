@@ -53,3 +53,58 @@ img {
   padding: 0.8rem;
   border-radius: 5rem;
 }
+
+/* === MOBILE VIEWPORT ADJUSTMENTS ONLY === */
+@media (max-width: 767px) {
+  html,
+  body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+
+  main {
+    padding: 10px;
+  }
+
+  .choices {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+  }
+  .choice {
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+  }
+  .choice img {
+    width: 100px;
+    height: 100px;
+  }
+
+  .score-board {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 20px;
+  }
+
+  .score p:first-child {
+    font-size: 24px;
+  }
+
+  .score p:last-child {
+    font-size: 16px;
+  }
+
+  .msg-container {
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+  }
+
+  #msg {
+    font-size: 18px;
+  }
+}
