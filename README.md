@@ -1,25 +1,26 @@
+# ✊ Rock Paper Scissors
+
+This is a browser-based **Rock Paper Scissors** game where you compete against the computer. It’s a fast, interactive, and responsive game built using **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
-### ✅ **2. Rock Paper Scissors Game – `README.md`**
+## 🎮 Game Description
 
-```markdown
-# ✊🖐✌ Rock Paper Scissors
-
-A fun browser-based Rock Paper Scissors game against the computer. Built using pure HTML, CSS, and JavaScript for interactivity and animations.
+Challenge the computer in a fun and animated version of Rock 🪨 Paper 📄 Scissors ✂️. The app randomly chooses its move, and the results are displayed instantly with score tracking.
 
 ---
 
-## ✨ Features
+## 🌟 Highlights
 
-- Play against computer logic
-- Animated result display
-- Real-time score tracking
-- Fully responsive design
+- 🤖 Random AI opponent
+- 🧠 Game logic built from scratch in JavaScript
+- 📊 Live score updates
+- 🎨 Styled with custom CSS
+- 📱 Mobile-friendly layout and animations
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github" />
@@ -27,9 +28,15 @@ A fun browser-based Rock Paper Scissors game against the computer. Built using p
 
 ---
 
-## 🚀 Getting Started
+## 🖼️ Demo Screenshot
 
-Clone the repo and run the `index.html` file in your browser:
+> *(Add your game screen image here - e.g., choice buttons and score panel)*
+
+---
+
+## 📁 Setup Instructions
+
+To run this game locally:
 
 ```bash
 git clone https://github.com/goharniazi/rock-paper-scissors
