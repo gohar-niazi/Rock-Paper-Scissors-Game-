@@ -27,11 +27,6 @@ Challenge the computer in a fun and animated version of Rock 🪨 Paper 📄 Sci
 </p>
 
 ---
-
-## 🖼️ Demo Screenshot
-
-> *(Add your game screen image here - e.g., choice buttons and score panel)*
-
 ---
 
 ## 📁 Setup Instructions
